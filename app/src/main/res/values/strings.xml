@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorKing</string>
+    <string name="result">result</string>
+    <string name="enter_two_numbers">enter_two_numbers</string>
+</resources>
